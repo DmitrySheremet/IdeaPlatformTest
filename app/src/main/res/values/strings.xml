@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IP Test Task (Dmitry Sheremet)</string>
+    <string name="filter_field_label">Поиск товаров</string>
+    <string name="activity_title_itemslist">Список товаров</string>
+    <string name="label_time">Дата обновления</string>
+    <string name="label_instock">На складе</string>
+    <string name="label_outofstock">Нет в наличии</string>
+    <string name="msg_error">Ошибка</string>
+    <string name="button_label_accept">Принять</string>
+    <string name="button_label_cancel">Отмена</string>
+    <string name="title_goods_quantity">Количество товара</string>
+    <string name="title_good_delete">Удаление товара</string>
+    <string name="msg_delete_good_q">Вы действительно хотите удалить выбранный товар?</string>
+    <string name="button_label_no">Нет</string>
+    <string name="button_label_yes">Да</string>
+</resources>
